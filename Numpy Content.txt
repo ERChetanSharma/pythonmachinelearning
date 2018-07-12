@@ -1,0 +1,34 @@
+Introduction to numpy
+
+1)single dimensional array
+	->max(),min(),sum()
+
+2)Multidimesional array
+	->Memory
+	->Fast Performance
+
+3)range() vs arange()
+
+4)Properties
+	->ndim
+	->itemsize
+	->dtype
+ 	->size
+	->shape
+
+5)Intervals between values
+	->np.linspace(start,end,step)
+
+6)reshaping of multidimesional array
+	->a.reshape(row,column)
+
+7)sum,sqrt,std
+
+8)stacking(combine two arrays)
+	horizontal
+	vertical
+
+9)ravel()
+
+10)numpy operstion
+	+,_,*,\
